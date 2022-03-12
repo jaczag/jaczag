@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Jacek.
 - 👀 I’m interested in sport, astronomy and new technologies
-- 🌱 I’m currently learning programming (PHP, Laravel, JS) 
+- 🌱 I love to programming. Stack: php, laravel, git, html, sql, css. I'm also beginner in js with vue.js framework
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me https://www.linkedin.com/in/jacek-zagajewski-a80b91169
 
